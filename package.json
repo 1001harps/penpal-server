@@ -3,7 +3,7 @@
     "start": "tsx server.ts"
   },
   "dependencies": {
-    "@9h/react-synced-state": "npm:@jsr/9h__react-synced-state@^0.2.1",
+    "@9h/react-synced-state": "npm:@jsr/9h__react-synced-state@^0.2.2",
     "dotenv": "^16.4.5",
     "tsx": "^4.17.0"
   },
